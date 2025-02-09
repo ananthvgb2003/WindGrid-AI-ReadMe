@@ -11,7 +11,7 @@
 </div>
 
 
-## Why We Made It
+## Why We Made WindGrid-AI
 The selection of optimal locations for wind turbine installation is a complex process that involves analyzing multiple environmental, geographic, and meteorological factors. Traditional methods of site selection are time-consuming, expensive, and often rely on expert judgment. By leveraging AI and machine learning, we aim to automate and optimize this process, ensuring accurate predictions, reduced costs, and improved efficiency in wind energy generation. Our solution integrates data-driven insights to support sustainable energy development and maximize power output while minimizing environmental impact.
 
 ## Use
@@ -32,7 +32,7 @@ This AI-powered system enables users to assess the suitability of a location for
 ## Project Overview
 
 ### Home Page- 
-![Video](public/home.mp4)
+![Demo](public/home.gif)
 
 ### Home Page 2- 
 ![Image](public/preview.png)
@@ -49,7 +49,7 @@ This AI-powered system enables users to assess the suitability of a location for
 ### On clicking the "Check Turbine Viability" button- 
 ![Image](public/check_viability.png)
 
-### rendering of how a wind turbine would appear at the chosen location- 
+### Rendering of Wind Turbine at the chosen location- 
 ![Image](public/visualize.png)
 
 
