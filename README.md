@@ -34,9 +34,6 @@ This AI-powered system enables users to assess the suitability of a location for
 ### Home Page- 
 ![Demo](public/home.gif)
 
-### Home Page 2- 
-![Image](public/preview.png)
-
 ### Interactive 3D Globe- 
 ![Image](public/globe.png)
 
@@ -61,7 +58,7 @@ This AI-powered system enables users to assess the suitability of a location for
   
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="Image" width="180">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" alt="Image" width="180" >
+<img src="public/3js.png" alt="Image" width="180" >
 
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" alt="Image" width="180">
 
